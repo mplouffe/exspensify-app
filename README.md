@@ -1,3 +1,3 @@
-## React Boilerplate Project
+## Expensify App.
 
-Boilerplate react project with all the infrastructure set up.
+Expense tracking app built in React.

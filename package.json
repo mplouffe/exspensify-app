@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "jest",
     "serve": "live-server public/",
     "build": "webpack",
     "dev-server": "webpack-dev-server"
@@ -20,6 +20,7 @@
     "babel-preset-env": "^1.7.0",
     "babel-preset-react": "^6.24.1",
     "css-loader": "^1.0.0",
+    "jest": "^20.0.4",
     "sass-loader": "^7.1.0",
     "style-loader": "^0.21.0",
     "webpack-dev-server": "^3.1.5"
